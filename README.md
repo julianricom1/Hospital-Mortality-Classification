@@ -17,3 +17,6 @@ Demographic data
 Information on disease severity
 Mortality indicators at 2 and 6 months
 Hospital mortality column (hospdead, the label to predict)
+
+IPYN file can be executed directly
+HTML file can be opened with any browser to see the pre-run results
